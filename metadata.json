@@ -1,0 +1,5 @@
+{
+  "name": "NSE Option Chain Live",
+  "description": "Real-time NSE Option Chain viewer with Greeks, IV, and OI analysis. Features simulated live data feed and AI-powered market insights.",
+  "requestFramePermissions": []
+}
